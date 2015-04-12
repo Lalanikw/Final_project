@@ -1,9 +1,6 @@
-#############
+##################
 BMW car dealership
-#############
-********
-Persnas
-********
+##################
 
 Personas:
 ========
@@ -15,7 +12,7 @@ Thanooj wrks six days a week including the weekends and he gets
 Mondays off. 
 
 Prblem Scenarios:
-===============
+================
 
 How to assign leads to that comes to the internet department: On daily
 basis, the car dealership receives from customers who want to get 
@@ -30,3 +27,11 @@ associate has responded within a given time. The situation has ended
 up a Thanooj responses to most of the inquiries by himself. 
 
 User Stories
+============
+
+Thanooj needs an automated system where he could assign leads to
+sales associates who are scheduled to work on a particular day. Also
+the system meeds t assign associates on a rotational basis and monitor
+if that person has responded within a given 15 minutes. If the associate
+has not responded within the 15 minutes time frame, the lead needs to
+be assigned to the next personal in the rotation. 
